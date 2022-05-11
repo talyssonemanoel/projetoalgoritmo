@@ -2,7 +2,7 @@
 
 //TRABALHO PARA A TERCEIRA UNIDADE DA DISCIPLINA DE CONSTRUÇÃO DE ALGORITMOS
 //Professor: Chico Dantas
-//Desenvolvido por: Talysson Emanoel Medeiros da Costa
+//Desenvolvido por: Talysson Emanoel
 
 
 typedef struct data //Essa estruct irá armazenar as informações da data de aniversário, que irá dentro da struct contact
